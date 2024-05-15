@@ -4,7 +4,9 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1 >ES6 features Scope Let</h1>
+    <div className="justify-content-center ">
+      <h1 >ES6 features Scope</h1>
+      <h2>Let</h2></div>
     </>
   );
 }
